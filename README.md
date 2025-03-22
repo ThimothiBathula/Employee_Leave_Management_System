@@ -80,7 +80,7 @@ module.exports = pool;
 ### 5️⃣ Start the Server
 
 ```sh
-npm start
+nodemon index.js
 ```
 
 The server will run on **[http://localhost:3000](http://localhost:3000)**.
