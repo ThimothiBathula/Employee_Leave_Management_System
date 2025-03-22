@@ -31,7 +31,7 @@ cd leave-management
 ### 2️⃣ Install Dependencies
 
 ```sh
-npm install express mysql2 dotenv body-parser cors
+npm install express mysql2 nodemon dotenv cors
 ```
 
 ### 3️⃣ Configure the Database
